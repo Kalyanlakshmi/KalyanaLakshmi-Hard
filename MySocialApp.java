@@ -1,8 +1,8 @@
-'''
+/*
 Social Media Platform
 
 Build a social networking platform with features like user profiles, posts, comments, likes, messaging, notifications, and privacy settings.
-'''
+*/
 import java.util.*;
 
 // Class representing a user
